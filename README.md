@@ -1,4 +1,4 @@
-## Abstract
+# Abstract
 
 Ads are becoming a major nuisance when it comes to browsing the web. 
 Computers today are exponentially faster than computers 20 years ago, 
@@ -21,7 +21,7 @@ this additional functionality has almost no impact on the system usage.
 This makes our framework perfectly suitable for small embedded 
 devices - the kind that Pi-Hole was built to run on.
 
-## Usage
+# Usage
 
 1. please ensure you have Pi-Hole up and running within a raspbian VM in VMWare Workstation
 2. please supply your own history.json file
